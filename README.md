@@ -1,6 +1,7 @@
 # learn_Perl
 
-Perl is a popular programming language in Bioinformatics due to its ease of use, flexibility, and large collection of libraries and modules that cater to scientific computations. Here are some common topics of Perl programming in Bioinformatics:
+Perl is a popular programming language in Bioinformatics due to its ease of use, flexibility, and large collection of libraries and modules that cater to scientific computations. 
+#### These are some common topics of Perl programming in Bioinformatics:
 
 **Sequence Analysis:** Perl is widely used for analyzing DNA, RNA, and protein sequences. This includes tasks such as sequence alignment, motif finding, and phylogenetic tree reconstruction.
 Data I/O: Bioinformatics deals with large datasets, and Perl provides several modules to read, write, and manipulate various file formats such as FASTA, GenBank, and BLAST.
