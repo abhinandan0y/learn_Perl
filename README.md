@@ -10,10 +10,15 @@ Data I/O: Bioinformatics deals with large datasets, and Perl provides several mo
 **Data Visualization:** Perl has several modules for data visualization, such as BioPerl's Graph, which can be used to create graphs and charts for analyzing sequences and other data.
 
 **Machine Learning:** Perl has several machine learning libraries, such as mlR and ML::KNN, which can be used for tasks such as classification and clustering of biological data.
+
 **Web Development:** Perl is often used for developing web applications in Bioinformatics, such as BLAST servers and web interfaces for biological data analysis tools.
+
 **Workflow Management:** Perl can be used to automate workflows for Bioinformatics analysis, such as running pipelines of tools and processing data in a systematic and reproducible manner.
+
 **Database Management:** Perl can be used to interact with databases, such as MySQL and PostgreSQL, to store, retrieve, and manipulate biological data.
+
 **Text Mining:** Perl can be used for text mining, which involves extracting useful information from large text datasets, such as abstracts or annotations of biological data.
+
 **Parallel Processing:** Perl can be used to parallelize computations, making it possible to process large datasets more efficiently on parallel architectures or distributed computing systems.
 
 **#Knowlegde is FREE but Solution is Your's🤘🏻**
