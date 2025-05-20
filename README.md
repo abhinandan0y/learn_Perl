@@ -4,8 +4,11 @@ Perl is a popular programming language in Bioinformatics due to its ease of use,
 
 **Sequence Analysis:** Perl is widely used for analyzing DNA, RNA, and protein sequences. This includes tasks such as sequence alignment, motif finding, and phylogenetic tree reconstruction.
 Data I/O: Bioinformatics deals with large datasets, and Perl provides several modules to read, write, and manipulate various file formats such as FASTA, GenBank, and BLAST.
+
 **Data Processing:** Perl can be used to perform complex data processing tasks, such as data cleaning, filtering, and transforming.
+
 **Data Visualization:** Perl has several modules for data visualization, such as BioPerl's Graph, which can be used to create graphs and charts for analyzing sequences and other data.
+
 **Machine Learning:** Perl has several machine learning libraries, such as mlR and ML::KNN, which can be used for tasks such as classification and clustering of biological data.
 **Web Development:** Perl is often used for developing web applications in Bioinformatics, such as BLAST servers and web interfaces for biological data analysis tools.
 **Workflow Management:** Perl can be used to automate workflows for Bioinformatics analysis, such as running pipelines of tools and processing data in a systematic and reproducible manner.
